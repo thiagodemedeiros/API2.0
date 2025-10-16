@@ -1,0 +1,7 @@
+MÓDULO DE TODOS - GUIA DE IMPLEMENTAÇÃO
+Responsável: Elyne
+
+VISÃO GERAL
+Este módulo consulta tarefas (todos) da API DummyJSON, processa os dados e salva em arquivo TXT.
+API: https://dummyjson.com/todos
+

@@ -1,0 +1,9 @@
+GUIA - MODEL (Modelo de Domínio)
+
+O que é Model?
+Representa como a tarefa existe NO SEU SISTEMA.
+Pode ter campos diferentes do DTO, validações e lógica própria.
+
+Diferença DTO vs Model:
+- DTO: é o mensageiro, formato da API
+- Model: entidade real no sistema

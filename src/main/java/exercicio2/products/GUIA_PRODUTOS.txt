@@ -1,0 +1,9 @@
+MÓDULO DE PRODUTOS - GUIA DE IMPLEMENTAÇÃO
+Responsável: Thiago
+
+VISÃO GERAL
+Este módulo consulta produtos da API DummyJSON, processa os dados e salva em arquivo TXT.
+API: https://dummyjson.com/products
+
+
+Veja os arquivos GUIA dentro de cada pasta para detalhes específicos.

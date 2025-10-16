@@ -1,0 +1,19 @@
+EXERCÍCIO 1 - CONSULTA CEP (ViaCEP)
+
+Este exercício demonstra como fazer uma requisição HTTP simples para consultar CEPs usando a API ViaCEP.
+
+1. Como fazer requisição HTTP com HttpURLConnection
+   - Criar URL
+   - Abrir conexão
+   - Configurar método GET
+   - Verificar código de resposta
+
+2. Como usar Jackson para converter JSON em objeto Java
+   - ObjectMapper para deserialização
+   - Ler resposta da API diretamente do InputStream
+
+3. Como usar Lombok
+   - @Data para gerar getters, setters, toString automaticamente
+
+API UTILIZADA
+https://viacep.com.br/ws/{cep}/json/

@@ -1,0 +1,6 @@
+GUIA - VIEW (Interface com Usuário)
+
+O que é View?
+Camada de apresentação que interage com o usuário via terminal.
+Exibe menus e chama os services apropriados.
+

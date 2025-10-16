@@ -1,0 +1,10 @@
+GUIA - SERVICE (Lógica de Negócio)
+
+O que é Service?
+É o cérebro do módulo. Coordena: requisição HTTP, conversão JSON->DTO->Model, validação e persistência.
+
+
+Validações importantes:
+- Verificar se response code é 200
+- Verificar se lista não está vazia/nula
+- Usar try-catch para IOException e JsonProcessingException

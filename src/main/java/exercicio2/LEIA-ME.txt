@@ -1,0 +1,14 @@
+EXERCÍCIO 2 - CATÁLOGO & TAREFAS
+
+DIVISÃO DE TRABALHO:
+--- Thiago: Módulo de Produtos
+--- Elyne: Módulo de Tarefas
+
+ORDEM DE IMPLEMENTAÇÃO:
+1. DTO
+2. Model
+3. Repository
+4. Service
+5. View
+
+Boa sorte!

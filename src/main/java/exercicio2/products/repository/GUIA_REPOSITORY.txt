@@ -1,0 +1,12 @@
+GUIA - REPOSITORY (Persistência)
+
+O que é Repository?
+Camada responsável por salvar e ler dados. Aqui vamos usar arquivo TXT simulando um banco SQL.
+
+Formato do arquivo products.txt:
+Cada linha = um produto
+Campos separados por | (pipe)
+
+Exemplo:
+1|Smartphone XYZ|Celular top de linha|1299.99|Electronics|Apple|50
+2|Notebook ABC|Laptop para trabalho|2500.00|Computers|Dell|30

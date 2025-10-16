@@ -1,0 +1,17 @@
+GUIA - REPOSITORY (Persistência)
+
+O que é Repository?
+Camada responsável por salvar e ler dados.
+Aqui vamos usar arquivo TXT simulando um banco SQL.
+
+Formato do arquivo todos.txt:
+Cada linha = uma tarefa
+Campos separados por | (pipe)
+
+Exemplo:
+1|Estudar Java|false|5
+2|Fazer exercícios|true|5
+3|Revisar código|false|3
+
+
+FILE_PATH = "data/todos.txt";

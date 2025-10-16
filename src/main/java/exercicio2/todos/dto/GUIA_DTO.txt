@@ -1,0 +1,11 @@
+GUIA - DTO (Data Transfer Object)
+
+O que é DTO?
+Objeto que representa exatamente o que vem da API.
+Serve para "capturar" o JSON e transformar em objeto Java.
+
+Dica
+Acesse https://dummyjson.com/todos no navegador e veja a estrutura JSON.
+Crie as classes DTO refletindo exatamente essa estrutura.
+
+Dica: se o nome do campo no JSON for diferente do atributo Java, use @JsonProperty("nome_no_json")

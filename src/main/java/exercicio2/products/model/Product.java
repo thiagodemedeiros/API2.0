@@ -1,5 +1,8 @@
 package exercicio2.products.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
+@JsonIgnoreProperties(ignoreUnknown = true)
 public class Product {
     private int id;
     private String title;
